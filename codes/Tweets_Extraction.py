@@ -26,9 +26,9 @@ from tweepy.streaming import StreamListener
 # Authenticathion codes
 #==============================================================================
 consumer_key = 'pu9KOFEEWkpOAaHCypQaxy4gv'
-consumer_secret = 'vBR3970CqwEfmT8F6KdrdmbRbrbuKmJdER9b0RO5XW9ktYtxv3'
+consumer_secret = '***'
 access_token = '209622320-1kXbHfZ6xOaJ95XAhmj6kqHP2XFDT3OHeXt02U7y'
-access_secret = 'nwho49ViUw49jtlQ5oh7FLM4bnkR1mD87O8K1a9fHE0ih'
+access_secret = '***'
  
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
